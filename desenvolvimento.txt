@@ -1,0 +1,4 @@
+Criar uma função sem argumentos
+Retornar Olá mundo
+
+Criar uma variável para se tornar a função 
